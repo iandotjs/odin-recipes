@@ -1,0 +1,40 @@
+body {
+    background-color: lightskyblue;
+}
+
+#page-title {
+    font-family: 'Pacifico', cursive;
+    font-size: 3rem;
+    text-align: center;
+    color: lightcoral;
+    margin-top: 0%;
+}
+
+#chef-svg {
+   width: 12rem;
+   height: auto;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+
+.recipe {
+    text-decoration: none;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    
+}
+
+.recipes {
+    text-align: center;
+}
+
+.recipe-div {
+background-color: gray;
+margin: 20px 40px 20px 40px;
+border-radius: 30px;
+padding: 34px 50px 50px 50px;
+background-image: url('https://images.all-free-download.com/images/graphiclarge/lined_paper_icon_55425.jpg');
+}
