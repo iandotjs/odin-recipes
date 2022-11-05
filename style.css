@@ -3,7 +3,7 @@ body {
 }
 
 li {
-    margin: 4px 0;
+    margin: 2.7px 0;
 }
 
 #page-title {
@@ -37,8 +37,8 @@ li {
 
 .recipe-div {
 background-color: gray;
-margin: 20px 40px 20px 40px;
+margin: 20px 17rem 20px 17rem;
 border-radius: 30px;
-padding: 34px 50px 50px 50px;
+padding: 39px 50px 50px 50px;
 background-image: url('https://images.all-free-download.com/images/graphiclarge/lined_paper_icon_55425.jpg');
 }
