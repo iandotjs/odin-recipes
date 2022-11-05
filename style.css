@@ -2,6 +2,10 @@ body {
     background-color: lightskyblue;
 }
 
+li {
+    margin: 4px 0;
+}
+
 #page-title {
     font-family: 'Pacifico', cursive;
     font-size: 3rem;
