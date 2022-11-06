@@ -3,7 +3,7 @@ body {
 }
 
 li {
-    margin: 2.7px 0;
+    margin: -7px 0;
 }
 
 #page-title {
@@ -26,8 +26,8 @@ li {
 .recipe {
     text-decoration: none;
     color: black;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 1.5rem;
+    font-family: 'Caveat', cursive;
+    font-size: 1.9rem;
     
 }
 
@@ -39,6 +39,6 @@ li {
 background-color: gray;
 margin: 20px 17rem 20px 17rem;
 border-radius: 30px;
-padding: 39px 50px 50px 50px;
+padding: 40px 50px 50px 50px;
 background-image: url('https://images.all-free-download.com/images/graphiclarge/lined_paper_icon_55425.jpg');
 }
