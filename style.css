@@ -2,10 +2,6 @@ body {
     background-color: lightskyblue;
 }
 
-li {
-    margin: -7px 0;
-}
-
 #page-title {
     font-family: 'Pacifico', cursive;
     font-size: 3rem;
@@ -22,15 +18,6 @@ li {
    margin-right: auto;
 }
 
-
-.recipe {
-    text-decoration: none;
-    color: black;
-    font-family: 'Caveat', cursive;
-    font-size: 1.9rem;
-    
-}
-
 .recipes {
     text-align: center;
 }
@@ -39,6 +26,53 @@ li {
 background-color: gray;
 margin: 20px 17rem 20px 17rem;
 border-radius: 30px;
-padding: 40px 50px 50px 50px;
+padding: 41px 50px 50px 50px;
 background-image: url('https://images.all-free-download.com/images/graphiclarge/lined_paper_icon_55425.jpg');
+}
+
+.recipe {
+    text-decoration: none;
+    color: black;
+    font-family: 'Caveat', cursive;
+    font-size: 1.9rem;
+}
+
+.list-recipe {
+    margin: -7px 0; 
+}
+
+/* recipe's css */
+.recipe-name {
+    font-family: 'Pacifico', cursive;
+    font-size: 3rem;
+    color: lightcoral;
+    margin-top: 0%;
+}
+
+.column-ingredients {
+        float: left;
+        width: 50%;
+        margin-top: 10px;
+}
+
+.recipe-description {
+    font-style: italic;
+    margin: 40px 50px;
+    text-align: justify;
+}
+
+.recipe-photo {
+    width: 35rem;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.right-column-ingredients {
+}
+
+.back-to-main-page {
+    text-decoration: none;
+    color: red;
 }
